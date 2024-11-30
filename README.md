@@ -3,8 +3,6 @@
 Welcome to my repository containing all the assignments for the Arewa Data Science Cohort-3.0 Python Programming Fellowship. This repository showcases solutions to various Python programming tasks assigned during the fellowship, organized by modules.
 
 
-To arrange your README in Markdown using embedded links for navigation, you can use anchor tags (#) to link different sections within the document. Below is the updated version of your README with clickable links for easy navigation:
-
 Cohort-3.0 Python Programming Fellowship Assignments
 Welcome to the repository containing all the assignments for the Cohort-3.0 Python Programming Fellowship. This repository showcases solutions to various Python programming tasks assigned during the fellowship, organized by modules.
 
