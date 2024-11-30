@@ -10,10 +10,10 @@ Welcome to the repository containing all the assignments for the Cohort-3.0 Pyth
 
 ## Table of Contents
 1. [Overview](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments?tab=readme-ov-file#overview)
-2. [Folder Structure](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/edit/main/README.md#folder-structure)
-3. [How to Use](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/edit/main/README.md#how-to-use)
-4. [Technologies Used](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/edit/main/README.md#technologies-used)
-5. [Contributing](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/edit/main/README.md#contributing)
+2. [Folder Structure](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments?tab=readme-ov-file#folder-structure)
+3. [How to Use](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments?tab=readme-ov-file#how-to-use)
+4. [Technologies Used](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments?tab=readme-ov-file#technologies-used)
+5. [Contributing](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments?tab=readme-ov-file#contributing)
 
 ## Overview
 This repository includes assignments aimed at building a strong foundation in Python programming. Each module represents a specific topic or concept, and the solutions are designed to demonstrate problem-solving skills, clarity of logic, and proper coding practices.
