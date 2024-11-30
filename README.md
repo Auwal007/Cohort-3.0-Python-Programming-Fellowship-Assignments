@@ -3,7 +3,6 @@
 ## Folder Structure  
 The repository is organized into the following directories:  
 
-```plaintext
 Cohort-3.0-Python-Programming-Fellowship-Assignments/
 ├── Module_01_Introduction/
 │   ├── level1_exercises.ipynb      # Solutions for level 1 exercises in Module 1
