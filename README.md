@@ -9,7 +9,7 @@ Cohort-3.0 Python Programming Fellowship Assignments
 Welcome to the repository containing all the assignments for the Cohort-3.0 Python Programming Fellowship. This repository showcases solutions to various Python programming tasks assigned during the fellowship, organized by modules.
 
 ## Table of Contents
-1. [Overview]([https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/main/README.md#overview](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments?tab=readme-ov-file#overview))
+1. [Overview](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/main/README.md#overview](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments?tab=readme-ov-file#overview)
 2. [Folder Structure](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/edit/main/README.md#folder-structure)
 3. [How to Use](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/edit/main/README.md#how-to-use)
 4. [Technologies Used](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/edit/main/README.md#technologies-used)
