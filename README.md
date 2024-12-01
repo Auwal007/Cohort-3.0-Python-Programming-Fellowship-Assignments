@@ -33,6 +33,8 @@ The repository is organized into the following directories:
 3. [**Module_03_Operators**](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/tree/main/Module_03_Operators)
    - [Module_03_excercise](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/blob/main/Module_03_Operators/Module_03_excercise_level_1.ipynb)
 
+4. [**Module_04_Strings**](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/tree/main/Module_04_Strings)
+   - [Module_04_Strings_excercise](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/blob/main/Module_04_Strings/Module_04_excercise.ipynb)
 
 ## How to Use
 ### Clone the Repository
