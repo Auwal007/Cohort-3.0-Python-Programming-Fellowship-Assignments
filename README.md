@@ -31,7 +31,7 @@ The repository is organized into the following directories:
    - [Module_02_excercise_level_2](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/blob/main/Module_02_Variables_builtin_functions/Module_02_excercise_level_2.ipynb)
 
 3. [**Module_03_Operators**](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/tree/main/Module_03_Operators)
-   - [Module_03_excercise_level_1](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/blob/main/Module_03_Operators/Module_03_excercise_level_1.ipynb)
+   - [Module_03_excercise](https://github.com/Auwal007/Cohort-3.0-Python-Programming-Fellowship-Assignments/blob/main/Module_03_Operators/Module_03_excercise_level_1.ipynb)
 
 
 ## How to Use
